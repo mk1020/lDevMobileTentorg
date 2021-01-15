@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lDevMobileTentorg</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">7wkfa4uzRbEAl9Nrlb-o3KCp2L7X8u_uHlBye</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
